@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hack
+intent://instagram.com/_u/_muskan.queen_01?ig_mid=22C88CAF-4DBD-4927-82BE-4C6108F73D7D&utm_source=instagramweb#Intent;package=com.instagram.android;action=android.intent.action.VIEW;scheme=https;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.instagram.android%26referrer%3Dig_mid%253D22C88CAF-4DBD-4927-82BE-4C6108F73D7D%2526utm_campaign%253Dunkno
